@@ -9,11 +9,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-// PULL from alt cont
-// PULL TEST
-// PULL TEST 2
-// PULL TEST 3
-// pull from terminal
+// final test
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
